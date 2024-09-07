@@ -1,5 +1,5 @@
 ## About me
-* 👨‍🎓 16-year-old Middle School Student
+* 👨‍🎓 17-year-old Middle School Student
 * 🖥️ HTML, CSS, JavaScript, TypeScript, NodeJS, PHP Programer
 * 🌐 zh-CN, zh-TW, en-US Translater
 * Ⓜ️ Contribor of ...
